@@ -6,6 +6,7 @@ Nim : 312410632
 
 
 Hasil dari codingan atas
+
  <img width="624" height="351" alt="image" src="https://github.com/user-attachments/assets/78103883-f603-4c91-b9ec-f8e368375310" />
 
 2.	Kemudian tambahkan deklarasi CSS internal seperti berikut pada bagian head dokumen
